@@ -17,7 +17,7 @@
 
 1. Clone
       ```zsh
-      $ git clone https://github.com/terra-money/terraswap-graph.git
+      $ git clone https://github.com/teiwei2003/terraswap-graph.git
       ```
 2. Install packages
       ```zsh
