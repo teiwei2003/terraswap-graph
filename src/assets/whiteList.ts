@@ -50,7 +50,7 @@ export const whiteList = {
     terra1z6tp0ruxvynsx5r9mmcc2wcezz9ey9pmrw5r8g: 'ORION-UST',
     terra170hht9lwe50ugfhnruzjaezpj29l7nvw3l6725: 'ORION-LUNA',
     terra1jzqlw8mfau9ewr7lufqkrpgfzk4legz9zx306p: 'TLAND-UST',
-    terra1dnf8xxhal8rc9vul43a3v3lsu79uym68znyk3q: 'HWLD-UST',
+    terra135zkjpms6x40zn5e2g0jfdhxmtauuegh482xx5: 'HWLD-UST',
   },
   token: {
     uusd: 'UST',
